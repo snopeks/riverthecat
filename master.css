@@ -1,9 +1,18 @@
 body {
-  background-color: black;
+  background-color: #260126;
 
 }
 
 h1 {
-  color: white;
+  color: #BFAF80;
+  text-align: center;
+}
+#headerImg {
 
+display: block;
+margin-left: auto;
+margin-right: auto;
+background-repeat: no-repeat;
+background-position: 50%;
+border-radius: 50%;
 }
