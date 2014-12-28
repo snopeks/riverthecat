@@ -6,6 +6,17 @@ body {
 h1 {
   color: #BFAF80;
   text-align: center;
+  font-family: Copperplate, sans-serif;
+  font-size: 60px;
+
+}
+h2 {
+  text-align: center;
+  font-family: Copperplate, sans-serif;
+  font-size: 30px;
+  color:#8C6954;
+
+
 }
 #headerImg {
 
