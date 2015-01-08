@@ -96,13 +96,12 @@ border-radius: 50%;
 }
 
 #footer {
-  height: 5%;
+  height: 50px;
   background:#59323C;
   text:30px;
   color:#BFAF80;
   text-align: center;
-  position: center;
-  bottom: 10px;
-  width: auto;
-
+  position: fixed;
+  width: 100%;
+  bottom: 0px;
 }
